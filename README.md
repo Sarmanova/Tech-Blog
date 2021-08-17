@@ -5,7 +5,7 @@ Tech blog  allows a user to add any post about whatever they wish. It supports a
 
 ## Link To Application:
 
- Deloyed:
+ Deloyed: 
 
 ## User Story
 ```
